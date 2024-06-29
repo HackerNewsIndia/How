@@ -22,3 +22,8 @@
 # Web Technology 
 
 1. [How_Webhook_works](https://github.com/HackerNewsIndia/How/blob/main/How_Webhook_works.jpeg)
+
+
+# Tools & Technology
+
+1. [How Java Gradle Works](https://github.com/HackerNewsIndia/How/blob/main/How_Gradle_Works.jpeg)
