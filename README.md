@@ -22,6 +22,7 @@
 # Web Technology 
 
 1. [How_Webhook_works](https://github.com/HackerNewsIndia/How/blob/main/How_Webhook_works.jpeg)
+2. [How Cloud Hosting Works](https://github.com/HackerNewsIndia/How/blob/main/How_Cloud_Hosting_Works.jpg)
 
 
 # Tools & Technology
@@ -30,3 +31,4 @@
 2. [How Java Maven Works](https://github.com/HackerNewsIndia/How/blob/main/How_Java_Maven_Works.jpeg)
 3. [How Nodejs Works](https://github.com/HackerNewsIndia/How/blob/main/How_Nodejs_Works.jpeg)
 4. [How Testing Works](https://github.com/HackerNewsIndia/How/blob/main/How_Testing_Works.jpeg)
+   
