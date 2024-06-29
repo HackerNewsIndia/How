@@ -24,6 +24,7 @@
 1. [How_Webhook_works](https://github.com/HackerNewsIndia/How/blob/main/How_Webhook_works.jpeg)
 2. [How Cloud Hosting Works](https://github.com/HackerNewsIndia/How/blob/main/How_Cloud_Hosting_Works.jpg)
 3. [How Kubernetes Works](https://github.com/HackerNewsIndia/How/blob/main/How_Cloud_Hosting_Works.jpg)
+4. [How CI CD Works](https://github.com/HackerNewsIndia/How/blob/main/How_CI_CD_Works.jpg)
 
 
 # Tools & Technology
