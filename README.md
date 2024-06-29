@@ -28,3 +28,4 @@
 
 1. [How Java Gradle Works](https://github.com/HackerNewsIndia/How/blob/main/How_Gradle_Works.jpeg)
 2. [How Java Maven Works](https://github.com/HackerNewsIndia/How/blob/main/How_Java_Maven_Works.jpeg)
+3. [How Nodejs Works](https://github.com/HackerNewsIndia/How/blob/main/How_Nodejs_Works.jpeg)
