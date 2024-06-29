@@ -13,6 +13,12 @@
 3. [How_Javascript_Application_Stack_Works](https://github.com/HackerNewsIndia/How/blob/main/How_Javascript_Application_Stack_Works.jpeg)
 
 
+
+# System Design
+
+1. [How Load Balancer Works](https://github.com/HackerNewsIndia/How/blob/main/How_Load_Balancer_Works.jpeg)
+
+
 # Web Technology 
 
 1. [How_Webhook_works](https://github.com/HackerNewsIndia/How/blob/main/How_Webhook_works.jpeg)
