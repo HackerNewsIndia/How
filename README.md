@@ -9,7 +9,7 @@
 # Architechture 
 
 1. [How Architechture Principle Works](https://github.com/HackerNewsIndia/How/blob/main/How_Architechture_Principle_Works.jpeg)
-2. [How System Design looks high level](https://github.com/HackerNewsIndia/How/blob/main/How_System_Design_looks_high_level.jpeg)
+2. [How System Design Works high level](https://github.com/HackerNewsIndia/How/blob/main/How_System_Design_looks_high_level.jpeg)
 3. [How Javascript Application Stack Works](https://github.com/HackerNewsIndia/How/blob/main/How_Javascript_Application_Stack_Works.jpeg)
 4. [How Domain Driven Design Works](https://github.com/HackerNewsIndia/How/blob/main/How_Domain_Driven_Design.jpg)
 
@@ -18,8 +18,7 @@
 # System Design
 
 1. [How Domain Driven Design Microservicess](https://github.com/HackerNewsIndia/How/blob/main/How_Domain_Driven_Design_Microservices.jpg)
-2. [How Load Balancer Works](https://github.com/HackerNewsIndia/How/blob/main/How_Load_Balancer_Works.jpeg)
-3. [How Load Balancer Works](https://github.com/HackerNewsIndia/How/blob/main/How_Loadbalancer_Works.jpg)
+2. [How Load Balancer Works](https://github.com/HackerNewsIndia/How/blob/main/How_Load_Balancer_Works.jpeg) / [How Load Balancer Works](https://github.com/HackerNewsIndia/How/blob/main/How_Loadbalancer_Works.jpg)
 4. [How Reverse Proxy Works ](https://github.com/HackerNewsIndia/How/blob/main/How_Reverse_Proxy_Works.jpg)
 
 
