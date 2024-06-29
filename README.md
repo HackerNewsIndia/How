@@ -27,6 +27,7 @@
 2. [How Cloud Hosting Works](https://github.com/HackerNewsIndia/How/blob/main/How_Cloud_Hosting_Works.jpg)
 3. [How Kubernetes Works](https://github.com/HackerNewsIndia/How/blob/main/How_Cloud_Hosting_Works.jpg)
 4. [How CI CD Works](https://github.com/HackerNewsIndia/How/blob/main/How_CI_CD_Works.jpg)
+5. [How API Gateway Works](https://github.com/HackerNewsIndia/How/blob/main/How_API_Gateway_Works.jpg)
 
 
 # Tools & Technology
